@@ -1,5 +1,5 @@
 /* 
-    task02.html
+    day05/task02.html
 */
 
 globalThis.temp;
@@ -25,3 +25,5 @@ button.addEventListener("click", function () {
     output.innerHTML = result;
 }
 );
+
+
